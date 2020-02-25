@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang=“en”>
+<head>
+<meta charset=“UTF-8”>
+<title>Lesson 4</title>
+</head>
+<br />
+	<body>
+		<h2>Definition List</h2>
+			<dl>
+            <dt> <a href="#Graphic Design">Graphic Design</a>
+            </dt>
+            <dd> Printed Media</dd>
+            <dd> Digital Media</dd>
+            <dt> <a href="#Photography">Photography</a>
+            </dt>
+            <dd> Darkroom Photography</dd>
+            <dd> Digital Photography</dd>
+            <dt> <a href="#Studio Arts">Studio Arts</a></dt>
+            <dd> Drawing</dd>
+            <dd> Painting</dd>
+            <dd> Printmaking</dd>
+            <dd> Ceramics</dd>
+            <dd> Sculpture</dd>
+            </dl>
+            <a name="Graphic Design"><h3> Graphic Design-Printed Media</h3></a>
+            <img src="Sports Cover.jpg" alt="Sports" width="200" height="200" style="border-style:none"/>
+            <br />
+            <img src="Sports Cover.jpg" alt="Sports" width="200" height="200" style="margin:15px; border-style:none; vertical-align:none"/>
+            <br />
+            <p>
+             <img src="Sports Cover.jpg" alt="Sports" width="200" height="200" style="margin:0px; border-style:none; vertical-align:text-top" /> This is align top
+             </p>
+            <br />
+            <p>
+             <img src="Sports Cover.jpg" alt="Sports" width="200" height="200" style="margin:0px; border-style:none; vertical-align:text-bottom" /> This is aligned bottom
+             </p>
+            <br />
+            <p>
+             <img src="Sports Cover.jpg" alt="Sports" width="200" height="200" style="margin:0px; border-style:none; vertical-align:middle" /> This is aligned middle
+             </p>
+            <br />
+              <p>
+             <img src="Sports Cover.jpg" alt="Sports" width="200" height="200" style="margin:0px; border-style:none; vertical-align:baseline" /> This is aligned at the baseline with the texts.
+             </p>
+            <br />
+            <p>
+            <img src="Sports Cover.jpg" alt="Sports" width= "200" height="200" style="margin:10px; border-style:none; float:left"/> This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.</p>
+<br />
+             <p>
+            <img src="Sports Cover.jpg" alt="Sports" width= "200" height="200" style="margin:10px; border-style:none; float:right"/> This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.This is a test. This is a Test. This is a Test. This is a test.</p>
+            </body>
+</html>
