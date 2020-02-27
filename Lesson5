@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lesson 5</title>
+<header align="center">
+	<h2>A Table with A Row Span</h2>
+</header>
+</head>
+<body>
+	
+	<table align="center" border="1" table width="800" height="600" cellpadding="5" cellspacing="3">
+    	
+		<tr>
+			<td bgcolor="red" width="400" height="200" rowspan="3">
+			</td>
+			<td bgcolor="blue">
+			</td>
+		</tr>
+	
+	<tr>
+		<td bgcolor="green">
+		</td>
+	</tr>
+	
+<tr>
+<td bgcolor="yellow">
+</td>
+</tr>
+</table>
+
+</a>
+<header align="center">
+	<h2>A Table Inside A Table</h2>
+</header>
+</ br>
+
+<table align="center" border="1" table width="1000" height="800" cellpadding="5" cellspacing="3">
+
+<tr>
+<td bgcolor="red" rowspan="3" width="300">
+</td>
+</tr>
+
+<tr>
+<td bgcolor="blue" width="300">
+</td>
+<td>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<table bgcolor="yellow" height="400" width="600" border="1" align="center" cellpadding="5" cellspacing="5">
+
+<tr>
+<td>
+<table>
+<tr>
+<td bgcolor="blue" height="350" width="300" rowspan="5">
+</td>
+</tr>
+<tr>
+<td bgcolor="purple" height="150" width="300">
+</tr>
+</td>
+<tr>
+<td bgcolor="orange" height="150" width="300">
+</tr>
+</td>
+<tr>
+<td bgcolor="green" height="150" width="300">
+</tr>
+</td>
+</table>
+</td>
+</tr>
+
+
+</table>
+</body>
+</html>
