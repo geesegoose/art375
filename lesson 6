@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lesson 6</title>
+</head>
+<body>
+<form method="post" enctype="text/plain">
+<h1>This is a basic form.</h1>
+<p>
+Last Name:<input type="text" name="lastname" maxlength="100" size="60"><br />
+First Name:<input type="text" name="lastname" maxlength="100" size="60"> <br />
+ID Number:<input type="text" name="lastname" maxlength="100" size="60">
+<br />
+Email Address:<input type="text" name="lastname" maxlength="100" size="60">
+</p>
+
+<h3> Please check your university catalog year:</h3>
+<p>
+<input type="radio" name="ca" value="16" checked="checked"/>2016<br />
+<input type="radio" name="ca" value="17"/>2017<br />
+<input type="radio" name="ca" value="18"/>2018<br />
+<input type="radio" name="ca" value="19"/>2019<br />
+<input type="radio" name="ca" value="20"/>2020<br />
+</p>
+
+<h3> Please select your major<h3>
+<p>
+<input type="checkbox" name="ah" checked="checked"/>Art History<br />
+<input type="checkbox" name="cr" />Ceramics<br />
+<input type="checkbox" name="dr" />Drawing<br />
+<input type="checkbox" name="gd" />Graphic Design<br />
+<input type="checkbox" name="il" />Illustration<br />
+<input type="checkbox" name="pa" />Painting<br />
+<input type="checkbox" name="ph" />Photography<br />
+<input type="checkbox" name="sc" />Sculpture<br />
+</p>
+
+<h3> Please select your graduation term/year:</h3>
+<p>
+<select name="majors" size="1">
+<option>Fall Semester, 2020</option>
+<option>Spring Semester, 2021</option>
+<option>Fall Semester, 2021</option>
+<option>Spring Semester, 2022</option>
+<option>Fall Semester, 2022</option>
+</select>
+</p>
+
+<h3> Please send your questions and suggestions to the department chair:</h3>
+<p>
+<textarea name="suggestion" rows="10" cols="100"> Please enter your comments here.</textarea>
+</p>
+
+<p>
+<input type="submit" value="Click to Submit" />
+<input type="cancel" value="Click to Cancel" />
+</p>
+
+</body>
+</html>
