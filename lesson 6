@@ -4,6 +4,7 @@
 <title>Lesson 6</title>
 </head>
 <body>
+
 <form method="post" enctype="text/plain">
 <h1>This is a basic form.</h1>
 <p>
@@ -55,6 +56,6 @@ Email Address:<input type="text" name="lastname" maxlength="100" size="60">
 <input type="submit" value="Click to Submit" />
 <input type="reset" value="Click to Cancel" />
 </p>
-
+</form>
 </body>
 </html>
